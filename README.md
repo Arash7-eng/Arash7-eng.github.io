@@ -30,3 +30,7 @@ Examination
 ![Image ](https://github.com/user-attachments/assets/10d1b712-d806-48ff-9a6b-7b9f44249577)
 
 
+## Blog Post
+[View my blog](https://github.com/Arash7-eng/Arashpreet-)
+
+
