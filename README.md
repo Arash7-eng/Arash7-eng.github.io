@@ -12,7 +12,9 @@ Examination
 |---|---|---|---|
 |Arashpreet kaur | 12 th |2024342681|District level winer in handwriting |
 
+
 **Marksheet**
+
 |Subject|Th|INA|Pr|Total|Result|
 |---|---|---|---|---|---|
 |General English|70|019|XXX|89|P|
@@ -20,6 +22,7 @@ Examination
 |Physics|45|05|024|074|P|
 |Chemistry|039|005|24|68|P|
 |Mathematics|078|019|XXX|097|P|
+
 
 **Result** :- 424 Marks 
 
