@@ -77,7 +77,6 @@ The MAX function returns the highest number in a range. In cell B11, I typed =MA
 
 
 
-Leveraging these functions will help you perform calculations quickly and efficiently.
 
 
 
