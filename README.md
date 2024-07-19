@@ -74,6 +74,9 @@ The MIN function returns the lowest number in a range. In cell B10 (below), I ty
 **5) The MAX Function**
 The MAX function returns the highest number in a range. In cell B11, I typed =MAX(B8:E8) and pressed Enter. The highest value in the range is $11,844.
 
+![6F671114-AA34-4629-860E-DE3BE071D507](https://github.com/user-attachments/assets/d60a6607-899a-4d83-9f40-30ce3daec5ca)
+
+
 
 _**Induction program outcomes**_
 
