@@ -78,9 +78,7 @@ The MAX function returns the highest number in a range. In cell B11, I typed =MA
 
 
 
-_**Induction program outcomes**_
 
-(https://github.com/Arash7-eng/Induction-program.)
 
 
 
