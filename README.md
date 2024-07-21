@@ -76,6 +76,11 @@ The MAX function returns the highest number in a range. In cell B11, I typed =MA
 
 ![6F671114-AA34-4629-860E-DE3BE071D507](https://github.com/user-attachments/assets/d60a6607-899a-4d83-9f40-30ce3daec5ca)
 
+**Induction Program**
+
+[view here]
+
+(https://github.com/Arash7-eng/Induction-program.)
 
 
 
